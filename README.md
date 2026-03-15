@@ -34,4 +34,12 @@ Intrinsic value estimation
 Market-based valuation comparisons
 Equity valuation techniques used in investment analysis
 
+Excel File used:
+<a href="https://github.com/TejKapadia1/Apple-Inc-Valuation-Project/blob/main/AAPL%20INC%20VALUAITON%20ANALYSIS.xlsx">Dataset view</a>
+
+Dashboard:
+<a href="https://github.com/TejKapadia1/Apple-Inc-Valuation-Project/blob/main/Valuation%20Dashboard.png">Dataset view</a>
+
+
+
 
